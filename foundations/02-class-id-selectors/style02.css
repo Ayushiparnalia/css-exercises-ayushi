@@ -1,0 +1,17 @@
+/* Style02 */
+.number1{
+    background-color: pink;
+}
+#number2{
+    color: blue;
+    font-size: x-large;
+}
+.number1.number3{
+    font-weight: bold;
+    font-size: large;
+}
+#number4{
+    background-color: green;
+    font-weight: bolder;
+    font-size: large;
+}
